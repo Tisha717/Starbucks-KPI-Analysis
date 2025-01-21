@@ -82,6 +82,11 @@ This project involves analyzing Starbucks sales data to derive key performance i
 - **Sales Revenue Analysis**: Explained by Product Category, Store Location, Peak Sales Hour, and Product Type.
 
 ## Screenshots
+![1](https://github.com/user-attachments/assets/aa9bc28c-0292-42e4-89a2-d10f55b5c638)
+
+![2](https://github.com/user-attachments/assets/10bdf662-eed8-4742-973b-16a8f1d0aa2d)
+
+![3](https://github.com/user-attachments/assets/76444af5-dd34-4260-84a9-b40cf9fd4008)
 
 
 ## How to Access the Dashboard
